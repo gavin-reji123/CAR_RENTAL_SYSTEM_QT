@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>adi.png</file>
+        <file>bazi.png</file>
+        <file>hav.png</file>
+        <file>raj.png</file>
+        <file>six.jpg</file>
+        <file>uri.jpg</file>
+        <file>lux.png</file>
+        <file>messi.png</file>
+        <file>insta.png</file>
+        <file>you.png</file>
+        <file>tm.png</file>
+        <file>tweet.png</file>
+        <file>fin.png</file>
+        <file>back.jpg</file>
+        <file>rex.png</file>
+        <file>hand.jpg</file>
+        <file>sun.jpg</file>
+        <file>torn.png</file>
+    </qresource>
+</RCC>
