@@ -4,5 +4,5 @@
 3) this project also links with several websites such as twitter,paytm,instagram.
 
 NOTE:
-there is a typo error in this project the login class work as the signup procedure and the sign up class
+there is a typo error in this project, the login class work as the signup procedure and the sign up class
 work as the login procedure.
